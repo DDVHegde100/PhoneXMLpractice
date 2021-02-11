@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+<food>
+    <name>iPhone 11</name>
+    <price>$600</price>
+    <description>
+   The iPhone 11 is a smartphone designed, developed, and marketed by Apple Inc. It is the thirteenth generation lower-priced iPhone, succeeding the iPhone XR.
+   </description>
+</food>
+<food>
+    <name>iPhone 12</name>
+    <price>$700</price>
+    <description>
+    5G speed. A14 Bionic, the fastest chip in a smartphone. The iPhone 12 features Super Retina XDR display with a 6.1‐inch edge-to-edge OLED display.
+    </description>
+</food>
